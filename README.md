@@ -1,1 +1,1 @@
-# react-vite-to-do-app
+# react-vite-ts-to-do-app
